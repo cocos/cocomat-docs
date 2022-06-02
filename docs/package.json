@@ -1,0 +1,21 @@
+{
+  "name": "cocomat",
+  "version": "1.0.0",
+  "description": "CocosCreator libs",
+  "main": "index.js",
+  "authors": {
+    "name": "wzpan",
+    "email": "m@hahack.com"
+  },
+  "repository": "",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^4.1.1",
+    "less-loader": "^7.3.0",
+    "vuepress": "^1.5.3"
+  }
+}
